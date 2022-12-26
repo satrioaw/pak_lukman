@@ -1,42 +1,29 @@
-Hugo Example Blog
-=================
+# hugoBasicExample
 
-This repository provides a fully-working example of a [Hugo](https://github.com/spf13/hugo)-powered blog. Many
-Hugo-specific features are used as a way to see them in action, and hopefully ease the learning curve for creating your
-very own site with Hugo.
+This repository offers an example site for [Hugo](https://gohugo.io/) and also it provides the default content for demos hosted on the [Hugo Themes Showcase](https://themes.gohugo.io/).
 
-Features
---------
+# Using
 
-- Recent Posts at main index
-- Indexes for `tags` and `categories`
-- Post information block, with links for all `tags` and `categories` post belongs to
-- [Bootstrap 3](http://getbootstrap.com/) ready
-  - Currently using the Yeti theme from http://bootswatch.com/
+1. [Install Hugo](https://gohugo.io/overview/installing/)
+2. Clone this repository
 
-Common things that should be added in the near future *(pull requests are welcome!)*:
+```bash
+git clone https://github.com/gohugoio/hugoBasicExample.git
+cd hugoBasicExample
+```
 
-- Disqus integration
-- More content types to demonstrate different layout methods
-  - About Me
-  - Contact
+3. Clone the repository you want to test. If you want to test all Hugo Themes then follow the instructions provided [here](https://github.com/gohugoio/hugoThemes#installing-all-themes)
 
-Getting Started
----------------
+4. Run Hugo and select the theme of your choosing
 
-To get started you should simply fork or clone this repository! That's definitely an important first step.
+```bash
+hugo server -t YOURTHEME
+```
 
-[Install Hugo](http://hugo.spf13.com/overview/installing) in a way that best suits your environment and comfort level.
+5. Under `/content/` this repository contains the following:
 
-Edit `config.yaml` and change the default properties to suit your own information. This is not required to run the
-example, but this is the global configuration file and you're going to need to use it eventually. Start here!
+- A section called `/post/` with sample markdown content
+- A headless bundle called `homepage` that you may want to use for single page applications. You can find instructions about headless bundles over [here](https://gohugo.io/content-management/page-bundles/#headless-bundle)
+- An `about.md` that is intended to provide the `/about/` page for a theme demo
 
-In a command prompt or terminal, navigate to the path that contains your `config.yaml` file and run `hugo`. That's it!
-You should now have a `public` directory with a complete blog! Open `public/index.html` in your browser and bask.
-
-If that wasn't amazing enough, from the same terminal run `hugo server -w`. This will watch your directories for changes
-and rebuild the site immediately, *and* it will make these changes available at http://localhost:1313/ so you can view
-your finished site in your browser. Go on, try it. This is one of the best ways to preview your site while working on it.
-
-To further learn Hugo and learn more, read through the Hugo [documentation](http://hugo.spf13.com/overview/introduction)
-or browse around the files in this repository. Have fun!
+6. If you intend to build a theme that does not fit in the content structure provided in this repository, then you are still more than welcome to submit it for review at the [Hugo Themes](https://github.com/gohugoio/hugoThemes/issues) respository
