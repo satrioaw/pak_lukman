@@ -9,6 +9,8 @@ project_images: ["images/projects/project-details-image-one.jpg", "images/projec
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
 
+ini videonya bray
+[![tonton aja](https://img.youtube.com/vi/1mjCwTP1L8c/default.jpg)](https://www.youtube.com/watch?v=1mjCwTP1L8c)
 
 The watch has the following features:
 
