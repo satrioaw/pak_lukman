@@ -1,6 +1,6 @@
 baseURL       = "/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "ARC | Creative Design Agency"
 theme         = "roxo-hugo"
 summarylength = 25
 
@@ -8,19 +8,19 @@ summarylength = 25
 [menu]
   # Navbar Menus
   [[menu.nav]]
-    name    = "Rumah"
+    name    = "Home"
     url     = ""
     weight  = 1
   [[menu.nav]]
-    name    = "Tentang"
+    name    = "About"
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "Resume"
+    name    = "My Story"
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
-    name    = "Blog"
+    name    = "My Course"
     url     = "blog"
     weight  = 4
   [[menu.nav]]
@@ -30,7 +30,7 @@ summarylength = 25
 
 # Site Params
 [params]
-  logo = "images/logo.png"
+  logo = ""
   dateFormat = "26 FEB 1994"
   # Meta data
   description = "Roxo Hugo themes | Design Agency Template by StaticMania"
@@ -67,7 +67,7 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
+    heading               = "Data Science Jelajahi Dunia Dengan Data"
     tagline               = "WE WORK HARD, WE PLAY HARD"
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
@@ -82,7 +82,7 @@ summarylength = 25
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
+    title               = "UICI READ and RISE"
     primary_button      = "Submit Query"
     primary_button_url  = "contact"
     secondary_button    = "Not Convinced"

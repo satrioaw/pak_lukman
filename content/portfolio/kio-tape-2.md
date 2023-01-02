@@ -1,31 +1,26 @@
 ---
-title: "KIO-TAPE BRAND"
+title: "Jangan Mengaku Data Scientist Jika Tidak Memahami Ini"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
-category: ["PRODUCT LABEL"]
+image: "images/projects/dcc.jpg"
+category: ["Data Science"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
 
 ini videonya bray
-[![tonton aja](https://img.youtube.com/vi/1mjCwTP1L8c/default.jpg)](https://www.youtube.com/watch?v=1mjCwTP1L8c)
+[![tonton aja](https://img.youtube.com/vi/U-XzuryhUFI/default.jpg)](https://www.youtube.com/watch?v=U-XzuryhUFI)
 
-The watch has the following features:
+Banyak data scientist yang tidak menyadari bahwa dalam penerapannya data memiliki kekurangan dan kelebihan. Setiap data memberikan informasi yang berbeda walaupun dalam kasus yang sama. Karena sejatinya data dipengaruhi oleh beberapa hal seperti waktu pengambilan yang berbeda, alat ukur yang digunakan berbeda dan lain-lain. Karakteristik dari data harus benar-benar dipahami agar pemilihan metode dapat dilakukan dengan mudah. Jika metode yang digunakan sesuai dengan karakteristik data yang dianalisis maka output yang dihasilkan akan optimal.
 
-Time and date displayed on the screen. Current time is in large numbers, date is in small numbers above it.
+Dalam penerapannya tidak ada metode yang optimal untuk menangani semua data. Setiap metode tentu akan menyesuaikan sesuai dengan karakteristik data yang dianalisis. Sehingga seorang data scientist dituntut tidak hanya mengerti bagaimana cara merunning sebuah program akan tetapi mampu memahami karakterik dari data sebelum dianalisis.
+Ada beberapa kekurangn dari data yang umum dijumpai yaitu terdapat missing value, outlier, dan data berdimensi tinggi ( High Dimensional Data). Jika dalam melakukan analisis data dan menemukan karakteristik data seperti yang disebutkan tadi maka perlu waspada dalam pemilihan metode. Salah dalam memilih metode akan berdampak pada keputusan yang diambil. Kekurangan dari data tersebut bukan berarti tidak dapat dianalisis hanya saja membutuhkan perlakukan khusus atau pendekatan khusus  untuk menghindari terjadinya bias.
 
-Light: Pressing the light button on the side of the watch activates a light while the button is pressed. Pressing and holding that button for 3 seconds turns on the light and keeps it on, until the button is held again for 3 seconds or up to 2 hours. After 2 hours, it will automatically turn off.
+Bias yang dimaksud disini yaitu selisih antara nilai harapan dari penduga dengan parameter yang diduga. Tentu saja penduga yang baik adalah penduga yang tidak bias, yaitu apabila nilai harapan sama dengan parameter yang diduga. Hal yang utama dan sangat perlu dilakukan sebelum analisis data yaitu melakukan eksplorasi data. Tujuannya untuk memahami karakteristik dari data tersebut dan melihat apakah terdapat missing value, outlier atau data yang digunakan berdimensi tinggi (High Dimensional Data).
+Eksplorasi data memang terdengar sangat sederhana akan tetapi memiliki manfaat yang luar biasa. Mengabaikan eksplorasi data artinya mengabaikan pondasi dari analisis tersebut. Rumah tanpa pondasi yang kuat akan mudah ambruk begitu juga dengan analisis data. Sehingga sangat penting melakukan eksplorasi data untuk menguatkan hasil analisis yang dilakukan. Tidak sedikit para peneliti atau data scientist mengabaikan hal tersebut dan hanya berfokus pada output yang dihasilkan. Output yang baik tentu bergantu pada ekslorasi yang baik karena ekplorasi data yang baik akan menuntut para peneliti atau data scientist dalam memilih metode. Cara sederhana dalam melakukan eksplorasi data yaitu membuat grafik-grafik yang mudah dipahami seperti boxplot, barplot, pie chart, scatter plot dan lain-lain. Selain membuat grafik dapat juga melihat informasi dasar dari data seperti mean, median, modus, dan melakukan analisis sederhana seperti korelasi dan lain-lain.
 
-Alarm. A daily alarm may be set for a given time. The alarm may be enabled or disabled. When the alarm is enabled and the alarm time is reached, the watch will beep fast for 5 seconds, then slowly for 30 seconds, then fast for another 5 seconds. Pressing any button stops the alarm sound (in addition to performing its normal function).
+Setelah melakukan eksplorasi data, mempelajari karakteristik dari data dan menemukan kekurangna dari data seperti yang disebutkan diatas maka hal yang harus dilakukan mencari informasi terkait penangann data tersebut. Seperti cara menangani data yang terdapat missing value, cara menganai data outlier, dan cara menganagni data yang berdimensi tinggi (High Dimensional Data). Jika semua proses dasar tersebut dilakukan dan data sudah ditangani barulah seorang peneliti atau data scientist melakukan analisis data sesuai dengan tujuan penelitian yang diinginkan.
 
-Timer. Timer mode shows a count-up timer that starts at 00:00. When the timer is started, it counts up. Pressing the start/stop button will pause the timer, pressing it again continues counting up. Pressing and holding the button for 3 seconds resets the timer to 00:00 and stops counting.
-
-Mystery answer. After entering this mode, the screen initially displays “ask now”. The user may ask a yes-or-no question aloud and press the start/stop button, this will display a randomly selected answer that is one of the following: “yeah”, “yeah right”, “no”, “no doubt”, “keep trying”, “keep dreaming”. Whenever the display has more than one word, only one word is displayed for 2 seconds, then the other word is displayed for 2 seconds, alternately. The answer is displayed until the user leaves this mode, or he/she presses start/stop again for a new answer. 
-
-
-Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
-
-The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.
+Lukmanul Hakim (Dosen Sains Data Universitas Insan Cita Indonesia)
 

@@ -1,9 +1,9 @@
 ---
-title: "USE-LESS BRAND"
+title: "HATI-HATI: Penelitian Di Era Digital Rawan Salah Keputusan"
 date: 2019-12-23T15:58:10+06:00
 type: portfolio
-image: "images/projects/project-thumb-one.jpg"
-category: ["UI UX"]
+image: "images/projects/project-details-image-three.jpg"
+category: ["Data Science"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
