@@ -7,22 +7,13 @@ category: ["Data Science"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
-The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+Bukan menjadi sesuatu asing lagi saat ini bahwa era digital dinikmati oleh berbagai kalangan. Dengan adanya pandemi Covid -19 yang menimpa banyak negara salah satunya Indonesia tentu  WFH menjadi salah satu pilihan yang harus dilakukan guna mengurangi terjadinya penyebaran covid -19. Tak khayal jika banyak peneliti tidak bisa melakukan penelitian secara langsung untuk mengambil data. Sehingga, tidak sedikit peneliti memilih mengambil data secara online, selain memudahkan juga mengurangi terjadinya peneyebaran covid-19.
 
+Pengambilan data secara online tentu memiliki resiko tersendiri yang disebebkan oleh banyak hal salah satunya yaitu bahasa. Penggunaan bahasa dengan konotasi negatif dan positif terkadang sudah tidak dapat dibedakan. Contoh sederhana jika peneliti ingin mengambil data di media sosial dan diketahui beberapa daerah menggunakan kata dengan konotasi negatif seperti “Jancok”. Kata ini tentu memiliki makna negatif hanya saja beberapa kalangan khususnya pada kalangan mileniel penggunaan kata “Jancok” sebagai bentuk euforia tersendiri. Sehingga jika peneliti tidak memahami bahasa serta budaya yang terjadi di masyarakat tentu akan berdampak pada kesalahan dalam pengambilan keputusan.
 
-The watch has the following features:
+Selain itu, di era digital saat ini seringkali ditemukan pengambilan data secara online dengan menggunakan google form.  Tidak ada yang salah akan hal ini, harusnya yang menjadi perhatian khusus disini yaitu peneliti mengawasi seberapa jauh kuesioner tersebut menyebar. Jika tidak dilakukan pengontrolan maka  keusioner tersebut rawan diisi oleh orang yang bukan sasaran dari peneliti. Hal inilah yang menjadi salah satu alasan kesalahan peneliti dalam mengambil keputusan. 
 
-Time and date displayed on the screen. Current time is in large numbers, date is in small numbers above it.
+Ada beberapa cara atau tips yang harus dilakukan peneliti dalam mengambil data pada era digital diantaranya yaitu: Pertama, Peneliti harus memahami keadaan yang terjadi saat ini khususnya penggunaan bahasa. Bahasa dengan konotasi negatif belum tentu memiliki makna yang negatif. Kedua, jika pengambilan data dilakukan dengan menggunakan google form sebaiknya kerangka sample dibuat terlebih dahulu agar kuesioner tersebut tepat sasaran dan jika memungkinkan responden dihubungi secara langsung. Ketiga, jika membutuhkan data dari instansi pemerintahan sebaiknya mengirim email terlebih dahulu terkait permintaan data yang terbaru. Jangan sampai mengambil data di website instansi yang dituju dengan keadaan data yang tidak update tentu hal tersebut tidak akan relate dengan keadaan yang terjadi saat ini. Langkah-langkah tersebut  merupakan sebagian kecil cara untuk mengurangi bias dalam melakukan penelitian di era digital.
 
-Light: Pressing the light button on the side of the watch activates a light while the button is pressed. Pressing and holding that button for 3 seconds turns on the light and keeps it on, until the button is held again for 3 seconds or up to 2 hours. After 2 hours, it will automatically turn off.
+Lukmanul Hakim (Dosen Sains Data Universitas Insan Cita Indonesia)
 
-Alarm. A daily alarm may be set for a given time. The alarm may be enabled or disabled. When the alarm is enabled and the alarm time is reached, the watch will beep fast for 5 seconds, then slowly for 30 seconds, then fast for another 5 seconds. Pressing any button stops the alarm sound (in addition to performing its normal function).
-
-Timer. Timer mode shows a count-up timer that starts at 00:00. When the timer is started, it counts up. Pressing the start/stop button will pause the timer, pressing it again continues counting up. Pressing and holding the button for 3 seconds resets the timer to 00:00 and stops counting.
-
-Mystery answer. After entering this mode, the screen initially displays “ask now”. The user may ask a yes-or-no question aloud and press the start/stop button, this will display a randomly selected answer that is one of the following: “yeah”, “yeah right”, “no”, “no doubt”, “keep trying”, “keep dreaming”. Whenever the display has more than one word, only one word is displayed for 2 seconds, then the other word is displayed for 2 seconds, alternately. The answer is displayed until the user leaves this mode, or he/she presses start/stop again for a new answer. 
-
-
-Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
-
-The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.
